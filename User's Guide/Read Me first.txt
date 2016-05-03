@@ -1,0 +1,7 @@
+1> start mysql service
+
+2> extract the csv files provided in the "CSV File Samples folder"
+
+3> Update the path in "books Schema.sql" in the "load data" statements to where you store the csv files
+
+4> Copy and paste the code files in "Source Code" folder into any IDE supporting JAVA and run usng the HomePage.java class 
